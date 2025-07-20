@@ -1,0 +1,36 @@
+.weather {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 30px;
+  margin: 20px auto;
+  max-width: 400px;
+  border-radius: 20px;
+  color:orangered;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(8px);
+}
+
+.weather-icon {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+}
+
+.temp {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.city {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.weather-details {
+  text-align: left;
+  margin-top: 15px;
+  padding: 0 20px;
+  font-size: 18px;
+  line-height: 1.8;
+}
